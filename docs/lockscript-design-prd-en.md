@@ -351,7 +351,7 @@ output:
       args: btc_utxo#1
 ```
 
-In the above example, for transactions initiated within the [`start_block, end_block`] interval, anyone can executes a fair launch on BTC L1, ensuring that everyone has equal chance of token distribution.
+In the above example, for transactions initiated within the [`start_block, end_block`] interval, anyone can execute a fair launch on BTC L1, ensuring that everyone has equal chance of token distribution.
 
 ## **Leap to L1 Following L2 Issuance**
 
